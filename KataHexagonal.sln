@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataHexagonal", "KataHexagonal\KataHexagonal.csproj", "{1A2C6F5D-0C8D-48D0-9334-00CFA9C89D65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataHexagonal.Tests", "KataHexagonal.Tests\KataHexagonal.Tests.csproj", "{2862629E-11FD-4027-9724-8299A24E0A6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A2C6F5D-0C8D-48D0-9334-00CFA9C89D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2C6F5D-0C8D-48D0-9334-00CFA9C89D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2C6F5D-0C8D-48D0-9334-00CFA9C89D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2C6F5D-0C8D-48D0-9334-00CFA9C89D65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2862629E-11FD-4027-9724-8299A24E0A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2862629E-11FD-4027-9724-8299A24E0A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2862629E-11FD-4027-9724-8299A24E0A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2862629E-11FD-4027-9724-8299A24E0A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
