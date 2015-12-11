@@ -7,8 +7,8 @@ namespace KataHexagonal
 {
     public class LoanCustomer
     {
-        public int Salary { get; set; }
-        public int Balance { get; set; }
+        public int Salary { get;  }
+        public int Balance { get; }
         
         public LoanCustomer(int salary, int balance)
         {
